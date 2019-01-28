@@ -27,5 +27,4 @@ public class EmployeePredicates
                 .collect(Collectors.<Employee>toList());
     }
 
-
 }
