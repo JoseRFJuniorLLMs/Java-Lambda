@@ -1,7 +1,6 @@
 package predicate;
 
 import java.util.Objects;
-import java.util.function.Predicate;
 
 public class Employee {
 

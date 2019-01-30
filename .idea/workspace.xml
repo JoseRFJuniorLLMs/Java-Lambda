@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c07ec32f-a3e6-4c04-a0bf-6d7a000df6ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/predicate2/JavaPredicateEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate3/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate4/IntPredicateEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predicate/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,30 +20,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1098#1108#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/predicate/EmployeePredicates.java">
+        <entry file="file://$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="112">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#810#820#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +89,16 @@
         <option value="$PROJECT_DIR$/src/ArraysAndStreams.java" />
         <option value="$PROJECT_DIR$/src/ex9/MultLista.java" />
         <option value="$PROJECT_DIR$/src/predicate/Employee.java" />
-        <option value="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" />
         <option value="$PROJECT_DIR$/src/predicate/EmployeePredicates.java" />
+        <option value="$PROJECT_DIR$/src/predicate/ex1/ex1/TestEmployeePredicates.java" />
+        <option value="$PROJECT_DIR$/src/predicate/ex1/TestEmployeePredicates.java" />
+        <option value="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" />
+        <option value="$PROJECT_DIR$/src/predicate2/JavaPredicateEx2.java" />
+        <option value="$PROJECT_DIR$/src/predicate3/Country.java" />
+        <option value="$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java" />
+        <option value="$PROJECT_DIR$/src/predicate4/IntPredicateEx.java" />
+        <option value="$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java" />
+        <option value="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" />
       </list>
     </option>
   </component>
@@ -119,6 +119,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,12 +137,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548696651805" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548865998478" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -168,20 +168,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestEmployeePredicates">
-    <configuration name="ArraysAndStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex8.ArraysAndStreams" />
-      <module name="stream" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula334" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex5.Aula334" />
+  <component name="RunManager" selected="Application.JavaPredicateNegate">
+    <configuration name="IntPredicateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predicate4.IntPredicateEx" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex5.*" />
+          <option name="PATTERN" value="predicate4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex7.Principal" />
+    <configuration name="JavaPredicateCompose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predicate5.JavaPredicateCompose" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex7.*" />
+          <option name="PATTERN" value="predicate5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEmployeePredicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicate.TestEmployeePredicates" />
+    <configuration name="JavaPredicateEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predicate2.JavaPredicateEx2" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predicate.*" />
+          <option name="PATTERN" value="predicate2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,27 +208,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex8.TesteX" />
+    <configuration name="JavaPredicateEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predicate3.JavaPredicateEx3" />
       <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predicate3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaPredicateNegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predicate6.JavaPredicateNegate" />
+      <module name="stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predicate6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArraysAndStreams" />
-      <item itemvalue="Application.TesteX" />
-      <item itemvalue="Application.Aula334" />
-      <item itemvalue="Application.Principal" />
-      <item itemvalue="Application.TestEmployeePredicates" />
+      <item itemvalue="Application.JavaPredicateEx2" />
+      <item itemvalue="Application.JavaPredicateEx3" />
+      <item itemvalue="Application.IntPredicateEx" />
+      <item itemvalue="Application.JavaPredicateCompose" />
+      <item itemvalue="Application.JavaPredicateNegate" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestEmployeePredicates" />
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Aula334" />
-        <item itemvalue="Application.TesteX" />
-        <item itemvalue="Application.ArraysAndStreams" />
+        <item itemvalue="Application.JavaPredicateNegate" />
+        <item itemvalue="Application.JavaPredicateCompose" />
+        <item itemvalue="Application.IntPredicateEx" />
+        <item itemvalue="Application.JavaPredicateEx3" />
+        <item itemvalue="Application.JavaPredicateEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -264,13 +276,35 @@
       <option name="project" value="LOCAL" />
       <updated>1548696201407</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Estudos de predicates !">
+      <created>1548696500953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548696500953</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Estudos de predicates !">
+      <created>1548696649795</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548696649795</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Estudos de predicates !">
+      <created>1548696659437</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548696659437</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21060605" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21363637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,15 +313,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.328594" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.069536425" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28807947" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3294702" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3966942" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.44039735" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.39569536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -331,42 +365,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Estudos de predicates !" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Teste2.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex3/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/CadeiaRegras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/RegraTempoEmprego.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/RegraSPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/RegraSalario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ex3/RegraPagamentoAtraso.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -667,63 +665,99 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ex9/MultLista.java" />
-    <entry file="file://$PROJECT_DIR$/src/predicate/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="64" column="37" selection-start-line="64" selection-start-column="37" selection-end-line="64" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#729#730#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#1721#1722#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter2Paragraph.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java">
+    <entry file="file://$PROJECT_DIR$/src/predicate/EmployeePredicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1098#1108#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate/EmployeePredicates.java">
+    <entry file="file://$PROJECT_DIR$/src/predicate/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#493#494#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#810#820#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate2/JavaPredicateEx2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate3/Country.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate4/IntPredicateEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

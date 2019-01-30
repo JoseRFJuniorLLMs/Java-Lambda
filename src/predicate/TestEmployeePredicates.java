@@ -4,11 +4,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static predicate.EmployeePredicates.isAdultMale;
-import static predicate.EmployeePredicates.isAdultFemale;
-import static predicate.EmployeePredicates.isAgeMoreThan;
-import static predicate.EmployeePredicates.filterEmployees;
-
 public class TestEmployeePredicates
 {
     public static void main(String[] args)
@@ -27,12 +22,12 @@ public class TestEmployeePredicates
         List<Employee> employees = new ArrayList<Employee>();
         employees.addAll(Arrays.asList(new Employee[]{e1,e2,e3,e4,e5,e6,e7,e8,e9,e10}));
 
-        System.out.println(filterEmployees(employees, isAdultMale()) );
+        System.out.println(EmployeePredicates.filterEmployees(employees, EmployeePredicates.isAdultMale()) );
 
-        System.out.println(filterEmployees(employees, isAdultFemale()) );
+        System.out.println(EmployeePredicates.filterEmployees(employees, EmployeePredicates.isAdultFemale()) );
 
-        System.out.println(filterEmployees(employees, isAgeMoreThan(35)) );
+        System.out.println(EmployeePredicates.filterEmployees(employees, EmployeePredicates.isAgeMoreThan(35)) );
 
-        System.out.println(filterEmployees(employees, isAgeMoreThan(35).negate()));
+        System.out.println(EmployeePredicates.filterEmployees(employees, EmployeePredicates.isAgeMoreThan(35).negate()));
     }
 }
