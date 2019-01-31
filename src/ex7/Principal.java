@@ -1,5 +1,8 @@
 package ex7;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Predicate;

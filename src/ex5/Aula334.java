@@ -1,6 +1,9 @@
 package ex5;
-// Demonstrating lambdas and streams with an array of Integers.
 
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Aula334 {
     public static void main(String[] args) {
         //Analisador upparCase = (s) -> s.toUpperCase();

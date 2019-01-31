@@ -1,7 +1,9 @@
 package ex4;
 
-// Fig. 17.9: Employee.java
-// Employee class.
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Employee
 {
    private String firstName;

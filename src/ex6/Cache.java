@@ -4,7 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Optional;
 import java.util.function.Supplier;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Cache {
     private  final Map<String, Jogador> cache = new HashMap<>();
 

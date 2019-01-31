@@ -1,8 +1,10 @@
-package ex4;// Fig. 17.7: ArraysAndStreams2.java
-// Demonstrating lambdas and streams with an array of Strings.
+package ex4;
 import java.util.Arrays;
 import java.util.stream.Collectors;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ArraysAndStreams2
 {
    public static void main(String[] args)

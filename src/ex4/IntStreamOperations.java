@@ -1,7 +1,10 @@
-package ex4;// Fig. 17.5: IntStreamOperations.java
-// Demonstrating IntStream operations.
+package ex4;
 import java.util.stream.IntStream;
 
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class IntStreamOperations
 {
    public static void main(String[] args)

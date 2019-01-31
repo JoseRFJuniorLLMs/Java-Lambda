@@ -6,7 +6,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Collectors;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ArquivoCSV {
    public static void main(String[] args) throws IOException {
       Path arquivo = Paths.get("telefones-clientes.csv");

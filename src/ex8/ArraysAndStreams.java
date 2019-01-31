@@ -6,6 +6,10 @@ import java.util.stream.IntStream;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ArraysAndStreams {
 
         public static void main(String[] args)

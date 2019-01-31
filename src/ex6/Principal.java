@@ -1,7 +1,10 @@
 package ex6;
 
 import java.util.Optional;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Principal {
     public static void main(String[] args) {
 

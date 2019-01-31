@@ -1,8 +1,11 @@
-package ex8;// Fig. 17.5: IntStreamOperations.java
-// Demonstrating IntStream operations.
+package ex8;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class TesteX
 {
     public static void main(String[] args)

@@ -1,5 +1,8 @@
 package ex8;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Usuario {
     private String nome;
     private int pontos;

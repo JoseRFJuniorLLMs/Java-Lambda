@@ -1,9 +1,11 @@
-package ex4;// Fig. 17.6: ArraysAndStreams.java
-// Demonstrating lambdas and streams with an array of Integers.
+package ex4;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ArraysAndStreams
 {
    public static void main(String[] args)

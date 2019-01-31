@@ -1,5 +1,4 @@
-package ex4;// Fig. 17.17: StreamOfLines.java
-// Counting word occurrences in a text file.
+package ex4;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -7,7 +6,10 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class StreamOfLines
 {
    public static void main(String[] args) throws IOException

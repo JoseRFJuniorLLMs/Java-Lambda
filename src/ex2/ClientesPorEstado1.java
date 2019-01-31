@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ClientesPorEstado1 {
    public static Map<String, List<Cliente>> agrupaPorEstado(List<Cliente> clientes) {
 

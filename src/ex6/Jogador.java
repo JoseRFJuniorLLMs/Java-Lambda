@@ -1,5 +1,8 @@
 package ex6;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Jogador {
     private final String nome;
     private final int gols;

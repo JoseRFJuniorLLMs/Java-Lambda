@@ -5,7 +5,10 @@ import static java.util.stream.Collectors.groupingBy;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ClientesPorEstado2_Funcional {
    public static Map<String, List<Cliente>> agrupaPorEstado(List<Cliente> clientes) {
 

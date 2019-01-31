@@ -2,13 +2,16 @@ package predicate6;
 
 import java.util.Arrays;
 import java.util.function.IntPredicate;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class JavaPredicateNegate {
 
     public static void main(String[] args) {
 
         int nums[] = { 2, 3, 1, 5, 6, 7, 8, 9, 12 };
-        // !@#$%*()_+:><{zx|aqwwerrtyÞØ→→↓←Ŧ®?/???//// por que aqui não da para usar ::
+        // por que aqui não da para usar ::
         IntPredicate p = n -> n > 5;
 
         Arrays.stream(nums)

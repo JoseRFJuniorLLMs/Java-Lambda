@@ -1,5 +1,8 @@
 package ex4;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class TelefoneCliente {
    private String nome;
    private String codigoArea;

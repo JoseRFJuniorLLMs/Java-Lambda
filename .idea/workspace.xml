@@ -2,15 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c07ec32f-a3e6-4c04-a0bf-6d7a000df6ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predicate2/JavaPredicateEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate3/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate4/IntPredicateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparator0/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparator0/LambdaComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate01/PredicateExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate7/PredicateExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predicate8/PredicateExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predicate/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex1/BuscaArquivo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex1/BuscaArquivo2_ReadAllLines.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex1/BuscaArquivo3_Funcional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex2/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex2/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado2_Funcional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado2_Funcional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/CadeiaRegras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/ComposicaoRegras1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/ComposicaoRegras2_Funcional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/Regra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraPagamentoAtraso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraSPC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraSalario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraTempoEmprego.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ArquivoCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ArquivoCSV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/IntStreamOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/IntStreamOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ProcessingEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ProcessingEmployees.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/RandomIntStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/RandomIntStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/StreamOfLines.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/StreamOfLines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/TelefoneCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/TelefoneCliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex5/Aula334.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex5/Aula334.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex6/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex6/Cache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex6/Jogador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex6/Jogador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex6/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex6/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/stream/ex7/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex7/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/BuscaArquivo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/BuscaArquivo2_ReadAllLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo2_ReadAllLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex1/BuscaArquivo3_Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo3_Funcional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/CadeiaRegras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/CadeiaRegras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ComposicaoRegras1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/ComposicaoRegras1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/ComposicaoRegras2_Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/ComposicaoRegras2_Funcional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/Regra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/Regra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/RegraPagamentoAtraso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraPagamentoAtraso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/RegraSPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraSPC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/RegraSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex3/RegraTempoEmprego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraTempoEmprego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ArraysAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ArraysAndStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/IntStreamOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/IntStreamOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/ProcessingEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ProcessingEmployees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/RandomIntStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/RandomIntStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/StreamOfLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/StreamOfLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex4/TelefoneCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/TelefoneCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/Analisador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/Analisador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/Aula334.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/Aula334.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex5/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/Operacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex6/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex7/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex7/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/ArraysAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8/ArraysAndStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/TesteX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8/TesteX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex8/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,15 +95,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -52,37 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Teste1.java" />
-        <option value="$PROJECT_DIR$/src/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/Mostrador.java" />
-        <option value="$PROJECT_DIR$/src/Consumer.java" />
-        <option value="$PROJECT_DIR$/src/Predicate.java" />
-        <option value="$PROJECT_DIR$/src/TesteX.java" />
-        <option value="$PROJECT_DIR$/src/Teste2.java" />
-        <option value="$PROJECT_DIR$/src/ex1/BuscaArquivo1.java" />
-        <option value="$PROJECT_DIR$/src/fig17_09-16/Employee.java" />
-        <option value="$PROJECT_DIR$/src/ex3/regras/RegraTempoEmprego.java" />
-        <option value="$PROJECT_DIR$/src/ex3/RegraTempoEmprego.java" />
-        <option value="$PROJECT_DIR$/src/ex3/RegraSPC.java" />
-        <option value="$PROJECT_DIR$/src/ex3/RegraSalario.java" />
-        <option value="$PROJECT_DIR$/src/ex3/RegraPagamentoAtraso.java" />
-        <option value="$PROJECT_DIR$/src/ex3/Regra.java" />
-        <option value="$PROJECT_DIR$/src/ex3/CadeiaRegras.java" />
-        <option value="$PROJECT_DIR$/src/ex3/ComposicaoRegras1.java" />
-        <option value="$PROJECT_DIR$/src/ex3/ComposicaoRegras2_Funcional.java" />
-        <option value="$PROJECT_DIR$/src/ex1/nomes.txt" />
-        <option value="$PROJECT_DIR$/nomes.txt" />
-        <option value="$PROJECT_DIR$/src/fig17_17/StreamOfLines.java" />
-        <option value="$PROJECT_DIR$/src/fig17_09-16/ProcessingEmployees.java" />
-        <option value="$PROJECT_DIR$/src/fig17_07/ArraysAndStreams2.java" />
-        <option value="$PROJECT_DIR$/src/fig17_06/ArraysAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/fig17_05/IntStreamOperations.java" />
-        <option value="$PROJECT_DIR$/src/fig12_21_22_lambda/ComboBoxTest.java" />
-        <option value="$PROJECT_DIR$/src/fig12_21_22_lambda/ComboBoxFrame.java" />
-        <option value="$PROJECT_DIR$/src/ex7/Principal.java" />
-        <option value="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" />
-        <option value="$PROJECT_DIR$/telefones-clientes.csv" />
-        <option value="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" />
         <option value="$PROJECT_DIR$/src/fig17_19/RandomIntStream.java" />
         <option value="$PROJECT_DIR$/src/fig17_19/Paralelo.java" />
         <option value="$PROJECT_DIR$/src/fig17_19/UnsafeParallelStreamUsage.java" />
@@ -98,7 +152,42 @@
         <option value="$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java" />
         <option value="$PROJECT_DIR$/src/predicate4/IntPredicateEx.java" />
         <option value="$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java" />
+        <option value="$PROJECT_DIR$/src/predicate0/CadeiaRegras.java" />
+        <option value="$PROJECT_DIR$/src/predicate01/PredicateExample1.java" />
+        <option value="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo1.java" />
+        <option value="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo2_ReadAllLines.java" />
+        <option value="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo3_Funcional.java" />
+        <option value="$PROJECT_DIR$/src/ex2/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java" />
+        <option value="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" />
+        <option value="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" />
+        <option value="$PROJECT_DIR$/src/ex4/TelefoneCliente.java" />
+        <option value="$PROJECT_DIR$/src/ex4/IntStreamOperations.java" />
+        <option value="$PROJECT_DIR$/src/ex4/Employee.java" />
+        <option value="$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java" />
+        <option value="$PROJECT_DIR$/src/ex4/ArraysAndStreams.java" />
+        <option value="$PROJECT_DIR$/src/ex4/RandomIntStream.java" />
+        <option value="$PROJECT_DIR$/src/ex4/StreamOfLines.java" />
+        <option value="$PROJECT_DIR$/src/ex4/ProcessingEmployees.java" />
+        <option value="$PROJECT_DIR$/src/ex5/Aula334.java" />
+        <option value="$PROJECT_DIR$/src/ex5/Operacao.java" />
+        <option value="$PROJECT_DIR$/src/ex5/Analisador.java" />
+        <option value="$PROJECT_DIR$/src/ex6/Cache.java" />
+        <option value="$PROJECT_DIR$/src/ex6/Principal.java" />
+        <option value="$PROJECT_DIR$/src/ex6/Jogador.java" />
+        <option value="$PROJECT_DIR$/src/ex7/Principal.java" />
+        <option value="$PROJECT_DIR$/src/ex8/ArraysAndStreams.java" />
+        <option value="$PROJECT_DIR$/src/ex8/TesteX.java" />
+        <option value="$PROJECT_DIR$/src/ex8/Usuario.java" />
         <option value="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" />
+        <option value="$PROJECT_DIR$/src/predicate7/PredicateExample1.java" />
+        <option value="$PROJECT_DIR$/src/predicate8/PredicateExample2.java" />
+        <option value="$PROJECT_DIR$/src/comparator0/Employee.java" />
+        <option value="$PROJECT_DIR$/src/comparator0/LambdaComparatorExample.java" />
+        <option value="$PROJECT_DIR$/src/lambda/LambdaThreadExample.java" />
+        <option value="$PROJECT_DIR$/src/java8/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/LivroCasaDoCodigo/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo4.java" />
       </list>
     </option>
   </component>
@@ -119,7 +208,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -133,14 +221,21 @@
               <item name="stream" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="busca_arquivos" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548865998478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548964732204" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -148,12 +243,13 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\maria\Documents\Junior\stream" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="C:\Users\maria\Documents\Junior\stream" />
       <recent name="C:\Users\maria\Documents\Junior\stream\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\Documents\Junior\stream" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -168,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaPredicateNegate">
-    <configuration name="IntPredicateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicate4.IntPredicateEx" />
+  <component name="RunManager" selected="Application.Capitulo6">
+    <configuration name="Capitulo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LivroCasaDoCodigo.Capitulo3" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predicate4.*" />
+          <option name="PATTERN" value="LivroCasaDoCodigo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +278,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPredicateCompose" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicate5.JavaPredicateCompose" />
+    <configuration name="Capitulo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LivroCasaDoCodigo.Capitulo5" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predicate5.*" />
+          <option name="PATTERN" value="LivroCasaDoCodigo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +291,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPredicateEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicate2.JavaPredicateEx2" />
+    <configuration name="Capitulo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LivroCasaDoCodigo.Capitulo6" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predicate2.*" />
+          <option name="PATTERN" value="LivroCasaDoCodigo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPredicateEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicate3.JavaPredicateEx3" />
+    <configuration name="LambdaComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comparator0.LambdaComparatorExample" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predicate3.*" />
+          <option name="PATTERN" value="comparator0.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPredicateNegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predicate6.JavaPredicateNegate" />
+    <configuration name="LambdaThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.LambdaThreadExample" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predicate6.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,19 +331,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JavaPredicateEx2" />
-      <item itemvalue="Application.JavaPredicateEx3" />
-      <item itemvalue="Application.IntPredicateEx" />
-      <item itemvalue="Application.JavaPredicateCompose" />
-      <item itemvalue="Application.JavaPredicateNegate" />
+      <item itemvalue="Application.LambdaThreadExample" />
+      <item itemvalue="Application.LambdaComparatorExample" />
+      <item itemvalue="Application.Capitulo3" />
+      <item itemvalue="Application.Capitulo5" />
+      <item itemvalue="Application.Capitulo6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaPredicateNegate" />
-        <item itemvalue="Application.JavaPredicateCompose" />
-        <item itemvalue="Application.IntPredicateEx" />
-        <item itemvalue="Application.JavaPredicateEx3" />
-        <item itemvalue="Application.JavaPredicateEx2" />
+        <item itemvalue="Application.Capitulo6" />
+        <item itemvalue="Application.Capitulo5" />
+        <item itemvalue="Application.Capitulo3" />
+        <item itemvalue="Application.LambdaComparatorExample" />
+        <item itemvalue="Application.LambdaThreadExample" />
       </list>
     </recent_temporary>
   </component>
@@ -302,9 +398,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21363637" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17424242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,13 +407,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.328594" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28807947" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5413907" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25496688" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27317882" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.44039735" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.39569536" />
@@ -365,326 +460,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Estudos de predicates !" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ex3/RegraPagamentoAtraso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/Regra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nomes.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex8/Usuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_17/StreamOfLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_09-16/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_09-16/ProcessingEmployees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_07/ArraysAndStreams2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_06/ArraysAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_05/IntStreamOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig12_21_22_lambda/ComboBoxTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig12_21_22_lambda/ComboBoxFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex2/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/function/Function.java" />
-    <entry file="file://$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex1/BuscaArquivo3_Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/telefones-clientes.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="82468" lean-forward="true" selection-start-line="82468" selection-end-line="82468" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex1/BuscaArquivo2_ReadAllLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_19/RandomIntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_19/UnsafeParallelStreamUsage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fig17_19/Paralelo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex8/TesteX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
-          <folding>
-            <element signature="e#0#2717#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex8/ArraysAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/ComposicaoRegras1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex3/ComposicaoRegras2_Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/StreamOfLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/TelefoneCliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/IntStreamOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1222">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ArraysAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ArquivoCSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Operacao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Analisador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Aula334.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6/Jogador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex7/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex1/BuscaArquivo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex9/MultLista.java" />
-    <entry file="file://$PROJECT_DIR$/Chapter2Paragraph.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate/EmployeePredicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -752,13 +527,353 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java">
+    <entry file="file://$PROJECT_DIR$/src/predicate0/Cliente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate0/Regra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate0/RegraSPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate0/RegraTempoEmprego.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate0/CadeiaRegras.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate0/ComposicaoRegras1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate0/ComposicaoRegras2_Funcional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate01/PredicateExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo2_ReadAllLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo3_Funcional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex2/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/ArquivoCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/StreamOfLines.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/TelefoneCliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/RandomIntStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/ProcessingEmployees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/IntStreamOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex4/ArraysAndStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex5/Operacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex5/Analisador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex5/Aula334.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex6/Jogador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex6/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex6/Cache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex7/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex8/ArraysAndStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex8/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ex8/TesteX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comparator0/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate8/PredicateExample2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaThreadExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/comparator0/LambdaComparatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/predicate7/PredicateExample1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Usuario.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="e#916#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
         </state>
       </provider>
     </entry>

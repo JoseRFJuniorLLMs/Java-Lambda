@@ -1,9 +1,11 @@
-package ex4;// Fig. 17.19: RandomIntStream.java
-// Rolling a die 6,000,000 times
+package ex4;
 import java.security.SecureRandom;
 import java.util.function.Function;
 import java.util.stream.Collectors;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class RandomIntStream
 {
    public static void main(String[] args)

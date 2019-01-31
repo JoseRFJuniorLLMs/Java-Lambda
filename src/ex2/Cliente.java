@@ -1,5 +1,8 @@
 package ex2;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class Cliente {
    private String nome;
    private String cidade;

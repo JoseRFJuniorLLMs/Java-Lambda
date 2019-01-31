@@ -1,5 +1,4 @@
-package ex4;// Fig. 17.10: ProcessingEmployees.java
-// Processing streams of Employee objects.
+package ex4;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
@@ -8,7 +7,10 @@ import java.util.TreeMap;
 import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
-
+/**
+ * @author Jose R F Junior
+ * web2ajax@gmail.com
+ */
 public class ProcessingEmployees
 {
    public static void main(String[] args)
