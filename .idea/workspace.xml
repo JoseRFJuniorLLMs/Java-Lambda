@@ -1,124 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c07ec32f-a3e6-4c04-a0bf-6d7a000df6ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LivroCasaDoCodigo/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparator0/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparator0/LambdaComparatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/LambdaThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate01/PredicateExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate7/PredicateExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predicate8/PredicateExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Cids.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Cids2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Cids3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Cids4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/CidsEntidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/ProcessingCids.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex1/BuscaArquivo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex1/BuscaArquivo2_ReadAllLines.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex1/BuscaArquivo3_Funcional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex2/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex2/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado2_Funcional.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex2/ClientesPorEstado2_Funcional.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/CadeiaRegras.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/ComposicaoRegras1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/ComposicaoRegras2_Funcional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/Regra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraPagamentoAtraso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraSPC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraSalario.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex3/RegraTempoEmprego.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ArquivoCSV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ArquivoCSV.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ArraysAndStreams2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/IntStreamOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/IntStreamOperations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/ProcessingEmployees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/ProcessingEmployees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/RandomIntStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/RandomIntStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/StreamOfLines.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/StreamOfLines.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex4/TelefoneCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex4/TelefoneCliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex5/Aula334.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex5/Aula334.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex6/Cache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex6/Cache.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex6/Jogador.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex6/Jogador.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex6/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex6/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/stream/ex7/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/stream/ex7/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex1/BuscaArquivo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex1/BuscaArquivo2_ReadAllLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo2_ReadAllLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex1/BuscaArquivo3_Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo3_Funcional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex2/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/CadeiaRegras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/CadeiaRegras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/ComposicaoRegras1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/ComposicaoRegras1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/ComposicaoRegras2_Funcional.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/ComposicaoRegras2_Funcional.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/Regra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/Regra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/RegraPagamentoAtraso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraPagamentoAtraso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/RegraSPC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraSPC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/RegraSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraSalario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex3/RegraTempoEmprego.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate0/RegraTempoEmprego.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex4/ArraysAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ArraysAndStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/IntStreamOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/IntStreamOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/ProcessingEmployees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/ProcessingEmployees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/RandomIntStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/RandomIntStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/StreamOfLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/StreamOfLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex4/TelefoneCliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex4/TelefoneCliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex5/Analisador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/Analisador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex5/Aula334.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/Aula334.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex5/Operacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex5/Operacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex6/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6/Cache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex6/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6/Jogador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex6/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex6/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex7/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex7/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex8/ArraysAndStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8/ArraysAndStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex8/TesteX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8/TesteX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex8/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex8/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambda/LambdaThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambda/LambdaThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predicate/EmployeePredicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predicate/EmployeePredicates.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-              <folding>
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#627#628#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -134,143 +57,52 @@
       <GitPushTagMode />
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/fig17_19/RandomIntStream.java" />
-        <option value="$PROJECT_DIR$/src/fig17_19/Paralelo.java" />
-        <option value="$PROJECT_DIR$/src/fig17_19/UnsafeParallelStreamUsage.java" />
-        <option value="$PROJECT_DIR$/src/ArraysAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/ex9/MultLista.java" />
-        <option value="$PROJECT_DIR$/src/predicate/Employee.java" />
-        <option value="$PROJECT_DIR$/src/predicate/EmployeePredicates.java" />
-        <option value="$PROJECT_DIR$/src/predicate/ex1/ex1/TestEmployeePredicates.java" />
-        <option value="$PROJECT_DIR$/src/predicate/ex1/TestEmployeePredicates.java" />
-        <option value="$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java" />
-        <option value="$PROJECT_DIR$/src/predicate2/JavaPredicateEx2.java" />
-        <option value="$PROJECT_DIR$/src/predicate3/Country.java" />
-        <option value="$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java" />
-        <option value="$PROJECT_DIR$/src/predicate4/IntPredicateEx.java" />
-        <option value="$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java" />
-        <option value="$PROJECT_DIR$/src/predicate0/CadeiaRegras.java" />
-        <option value="$PROJECT_DIR$/src/predicate01/PredicateExample1.java" />
-        <option value="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo1.java" />
-        <option value="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo2_ReadAllLines.java" />
-        <option value="$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo3_Funcional.java" />
-        <option value="$PROJECT_DIR$/src/ex2/Cliente.java" />
-        <option value="$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java" />
-        <option value="$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java" />
-        <option value="$PROJECT_DIR$/src/ex4/ArquivoCSV.java" />
-        <option value="$PROJECT_DIR$/src/ex4/TelefoneCliente.java" />
-        <option value="$PROJECT_DIR$/src/ex4/IntStreamOperations.java" />
-        <option value="$PROJECT_DIR$/src/ex4/Employee.java" />
-        <option value="$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java" />
-        <option value="$PROJECT_DIR$/src/ex4/ArraysAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/ex4/RandomIntStream.java" />
-        <option value="$PROJECT_DIR$/src/ex4/StreamOfLines.java" />
-        <option value="$PROJECT_DIR$/src/ex4/ProcessingEmployees.java" />
-        <option value="$PROJECT_DIR$/src/ex5/Aula334.java" />
-        <option value="$PROJECT_DIR$/src/ex5/Operacao.java" />
-        <option value="$PROJECT_DIR$/src/ex5/Analisador.java" />
-        <option value="$PROJECT_DIR$/src/ex6/Cache.java" />
-        <option value="$PROJECT_DIR$/src/ex6/Principal.java" />
-        <option value="$PROJECT_DIR$/src/ex6/Jogador.java" />
-        <option value="$PROJECT_DIR$/src/ex7/Principal.java" />
-        <option value="$PROJECT_DIR$/src/ex8/ArraysAndStreams.java" />
-        <option value="$PROJECT_DIR$/src/ex8/TesteX.java" />
-        <option value="$PROJECT_DIR$/src/ex8/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java" />
-        <option value="$PROJECT_DIR$/src/predicate7/PredicateExample1.java" />
-        <option value="$PROJECT_DIR$/src/predicate8/PredicateExample2.java" />
-        <option value="$PROJECT_DIR$/src/comparator0/Employee.java" />
-        <option value="$PROJECT_DIR$/src/comparator0/LambdaComparatorExample.java" />
-        <option value="$PROJECT_DIR$/src/lambda/LambdaThreadExample.java" />
-        <option value="$PROJECT_DIR$/src/java8/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/LivroCasaDoCodigo/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo4.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-421" />
-    <option name="y" value="25" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="stream" type="b2602c69:ProjectViewProjectNode" />
-              <item name="stream" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="busca_arquivos" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1dNZxHEPVq53xC79xQc5kFZl0kn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548964732204" />
+    <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maria\Documents\Junior\stream" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambda" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="C:\Users\maria\Documents\Junior\stream" />
       <recent name="C:\Users\maria\Documents\Junior\stream\src" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\maria\Documents\Junior\stream" />
-    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Capitulo6">
-    <configuration name="Capitulo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LivroCasaDoCodigo.Capitulo3" />
+  <component name="RunManager" selected="Application.ProcessingCids">
+    <configuration name="Cids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Cids" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LivroCasaDoCodigo.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Capitulo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LivroCasaDoCodigo.Capitulo5" />
+    <configuration name="Cids2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Cids2" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LivroCasaDoCodigo.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Capitulo6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LivroCasaDoCodigo.Capitulo6" />
+    <configuration name="Cids3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Cids3" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LivroCasaDoCodigo.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaComparatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="comparator0.LambdaComparatorExample" />
+    <configuration name="Cids4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.Cids4" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="comparator0.*" />
+          <option name="PATTERN" value="lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambda.LambdaThreadExample" />
+    <configuration name="ProcessingCids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambda.ProcessingCids" />
       <module name="stream" />
       <extension name="coverage">
         <pattern>
@@ -331,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LambdaThreadExample" />
-      <item itemvalue="Application.LambdaComparatorExample" />
-      <item itemvalue="Application.Capitulo3" />
-      <item itemvalue="Application.Capitulo5" />
-      <item itemvalue="Application.Capitulo6" />
+      <item itemvalue="Application.Cids" />
+      <item itemvalue="Application.Cids2" />
+      <item itemvalue="Application.Cids3" />
+      <item itemvalue="Application.Cids4" />
+      <item itemvalue="Application.ProcessingCids" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Capitulo6" />
-        <item itemvalue="Application.Capitulo5" />
-        <item itemvalue="Application.Capitulo3" />
-        <item itemvalue="Application.LambdaComparatorExample" />
-        <item itemvalue="Application.LambdaThreadExample" />
+        <item itemvalue="Application.ProcessingCids" />
+        <item itemvalue="Application.Cids4" />
+        <item itemvalue="Application.Cids3" />
+        <item itemvalue="Application.Cids2" />
+        <item itemvalue="Application.Cids" />
       </list>
     </recent_temporary>
   </component>
@@ -357,6 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548114884773</updated>
+      <workItem from="1592267758173" duration="7454000" />
     </task>
     <task id="LOCAL-00001" summary="Estudos de predicates !">
       <created>1548695856161</created>
@@ -396,487 +229,53 @@
     <option name="localTasksCounter" value="6" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17424242" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.5413907" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25496688" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27317882" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.44039735" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.39569536" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.022727273" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963504" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3293944" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34121123" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.4283604" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estudos de predicates !" />
     <option name="LAST_COMMIT_MESSAGE" value="Estudos de predicates !" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/predicate/TestEmployeePredicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate2/JavaPredicateEx2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate3/Country.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate3/JavaPredicateEx3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate4/IntPredicateEx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate5/JavaPredicateCompose.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/Regra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/RegraSPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/RegraTempoEmprego.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/CadeiaRegras.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/ComposicaoRegras1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate0/ComposicaoRegras2_Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="11" column="56" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate01/PredicateExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo2_ReadAllLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo3_Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex2/Cliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex2/ClientesPorEstado1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex2/ClientesPorEstado2_Funcional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ArquivoCSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/StreamOfLines.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/TelefoneCliente.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/RandomIntStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ProcessingEmployees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/IntStreamOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ArraysAndStreams2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex4/ArraysAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Operacao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Analisador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex5/Aula334.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6/Jogador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex6/Cache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex7/Principal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex8/ArraysAndStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex8/Usuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate6/JavaPredicateNegate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ex8/TesteX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/busca_arquivos/BuscaArquivo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="4" selection-end-line="7" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comparator0/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate8/PredicateExample2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lambda/LambdaThreadExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/comparator0/LambdaComparatorExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="47" column="45" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/predicate7/PredicateExample1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Usuario.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
-          <folding>
-            <element signature="e#916#917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LivroCasaDoCodigo/Capitulo6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="92" column="1" lean-forward="true" selection-start-line="92" selection-start-column="1" selection-end-line="92" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="1506" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1592275105351">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1506" y="219" key="#com.intellij.ide.util.MemberChooser/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592275105351" />
+    <state x="1467" y="428" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592272717783">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1467" y="428" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592272717783" />
+    <state width="1669" height="236" key="GridCell.Tab.0.bottom" timestamp="1592275131719">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1669" height="236" key="GridCell.Tab.0.bottom/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592275131719" />
+    <state width="1669" height="236" key="GridCell.Tab.0.center" timestamp="1592275131719">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1669" height="236" key="GridCell.Tab.0.center/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592275131719" />
+    <state width="1669" height="236" key="GridCell.Tab.0.left" timestamp="1592275131719">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1669" height="236" key="GridCell.Tab.0.left/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592275131719" />
+    <state width="1669" height="236" key="GridCell.Tab.0.right" timestamp="1592275131719">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state width="1669" height="236" key="GridCell.Tab.0.right/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592275131719" />
+    <state x="1410" y="119" width="583" height="849" key="find.popup" timestamp="1592274345568">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1410" y="119" width="583" height="849" key="find.popup/2560.60.1280.1024/0.0.2560.1080@0.0.2560.1080" timestamp="1592274345568" />
   </component>
   <component name="masterDetails">
     <states>

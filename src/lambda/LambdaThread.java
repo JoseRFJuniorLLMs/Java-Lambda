@@ -1,10 +1,9 @@
 package lambda;
 
 /**
- * @author Jose R F Junior
- * web2ajax@gmail.com
+ * @author Putinha Lambda
  */
-public class LambdaThreadExample {
+public class LambdaThread {
     public static void main(String[] args) {
 
         // Implementing Runnable using anonymous class (Old way)

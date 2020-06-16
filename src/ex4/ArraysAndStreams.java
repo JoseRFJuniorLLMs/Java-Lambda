@@ -11,6 +11,24 @@ public class ArraysAndStreams
    public static void main(String[] args)
    {
       Integer[] values = {2, 9, 5, 0, 3, 7, 1, 4, 8, 6, 6};
+      String[] cdis = {
+                       "10000222000456cc454c5465145600028c00000200000",
+                       "20000222000456cc454c5465145600028c00000200000",
+                       "30000222000456cc454c5465145600028c00000200000",
+                       "40000222000456cc454c5465145600028c00000200000",
+                       };
+
+
+      // display original values
+      System.out.printf("CIDS ORIGINAIS: %s%n", Arrays.asList(cdis));
+
+      // sort values in ascending order with streams
+      System.out.printf("Sorted CIDS: %s%n",
+              Arrays.stream(cdis)
+                      //.distinct()
+                      .sorted()
+                      .collect(Collectors.toList()));
+
 
       // display original values
       System.out.printf("Original values: %s%n", Arrays.asList(values));
